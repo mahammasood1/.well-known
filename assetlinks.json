@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.maham.cv.base",
+    "sha256_cert_fingerprints":
+    ["05:83:A6:23:14:41:64:BF:15:50:E6:80:DB:5D:5C:54:9A:8F:19:AD:5E:F8:0D:39:CD:97:4D:98:AC:D6:07:DA"]
+  }
+}]
